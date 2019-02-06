@@ -1,5 +1,5 @@
 ---
-title: "Johannes Gutenberg: The Birth of Movable Type"
+title: "Constructivism and Concrete art (구성주의와 구체예술)"
 date: "2017-08-18T22:12:03.284Z"
 template: "post"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - "Open source"
   - "Gatsby"
   - "Typography"
-description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
+description: "구성주의는 구조적 디자인을 강조한 기하학과 단색의 사용, 선과 비대칭적 구조 그리고 사진을 사용한 예술이다. 구체 예술은 수학적 사고가 추가된 구성주의 미학의 연장이다. 2차원에서 기하학적 공간 조직화를 일으켰다. 이러한 구성주의와 구체예술은 사진의 객관성을 활용하면서, 사진이 대체할 수 없는 미적 가치를 이해하고자 하였다."
 ---
 
 German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.

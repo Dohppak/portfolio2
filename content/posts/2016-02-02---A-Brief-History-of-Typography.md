@@ -1,6 +1,6 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
+title: "Data Visualization"
+date: "2017-02-02T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/a-brief-history-of-typography/"
@@ -10,7 +10,7 @@ tags:
   - "Monotype"
   - "History of typography"
   - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+description: "React.js 와 D3 js를 이용한 데이터 시각화 공부에 관련한 내용을 정리해 보았습니다."
 ---
 
 **Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 

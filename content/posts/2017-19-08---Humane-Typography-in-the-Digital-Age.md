@@ -1,15 +1,16 @@
 ---
-title: Humane Typography in the Digital Age
+title: Contextual Design - Quantitative User Research
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+category: "Design Research"
 tags:
   - "Design"
   - "Typography"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "이 매거진은 UNIST 창의공학설계 대학원 (CDE)의 2017090_CDE70801: Contextual Design(Prof. HwajungHong) 수업의 내용과 Rapid contextual design(Karen Holtzblatt, Hugh Beyer)을 기반으로 작성 했음을 밝힙니다."
+
 ---
 
 An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
